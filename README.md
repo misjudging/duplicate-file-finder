@@ -1,9 +1,27 @@
 ﻿# Duplicate File Finder
 
-Quick Python CLI to find duplicate files by content hash.
+![Status](https://img.shields.io/badge/status-active-22c55e?style=for-the-badge)
+![License](https://img.shields.io/badge/license-open--source-0ea5e9?style=for-the-badge)
 
-## Run
+> Find duplicate files quickly and keep storage clean.
+
+## Highlights
+
+- Hash-based duplicate detection
+- Fast recursive scan
+- Readable grouped output
+
+## Quick Start
 
 ```bash
-python duplicate_finder.py --path "C:\\path\\to\\scan"
+git clone <repo-url>
+cd duplicate-file-finder
 ```
+
+## About
+
+This repository is part of my developer journey and is built to be practical, clean, and easy to use.
+
+## Open Source
+
+This project is open source and free to use.
